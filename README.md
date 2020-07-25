@@ -1,0 +1,2 @@
+Tive dificuldade no início do módulo de GIT porque até então não conhecia absolutamente NADA sobre programação.
+Estou levando mais tempo que o previsto em cada aula pois pauso o vídeo a cada novo passo para executá-lo, fazer anotações e pesquisar caso tenha alguma dúvida.
